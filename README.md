@@ -18,6 +18,10 @@ This Event Page UI is designed to showcase information about a ReactJS workshop,
 2. Scroll through the page or use the navigation links in the navigation bar to jump to specific sections.
 3. Explore the workshop details, features, instructor information, and FAQs.
 
+## Sample Screenshot (Home Page):
+![image](https://github.com/JeremiahRanen7/Event-Page-UI/assets/141173239/5797137a-9f7d-40d5-811a-cee3e8973b28)
+
+
 ## Acknowledgements
 
 - This project utilizes the Bootstrap framework for building the user interface.
